@@ -1,0 +1,10 @@
+#for stm32 workbench 
+Debug/
+Release/
+Src/Backup/
+#for linklist
+build/*
+!build/Readme.txt
+TCB2/Debug/*
+TCB2/build/*
+!TCB2/Debug/objects.mk
